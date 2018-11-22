@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Владимир Крас](https://up.htmlacademy.ru/javascript/16/user/34655).
-* Наставник: `Неизвестно`.
+* Наставник: `Сам себе наставник`.
 
 ---
 
